@@ -1,0 +1,16 @@
+
+html{
+
+	position: relative;
+	min-height: 100vh;
+}
+	
+	footer{
+		position: sticky;
+		background: #212529;
+		width: 100%;
+		text-align: center;
+		bottom: 0;
+		color: white;
+
+	}
